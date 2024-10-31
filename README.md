@@ -17,7 +17,7 @@ This app allows users to add, complete, delete, and edit their tasks, with stora
 ## Installation
 
 ```bash
-git clone fdzfa
-cd fsdfsa
+git clone https://github.com/ejazulhaque09/To_Do_App
+cd To_Do_App
 npm install
 npm run dev
