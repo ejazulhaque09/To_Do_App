@@ -10,9 +10,9 @@ This app allows users to add, complete, delete, and edit their tasks, with stora
 - **Persistent State:** Uses `localStorage` to save tasks after refreshing or closing the browser.
 
 ## Technologies Used
--**React** for building the user interface.
--**useState** and **useEffect**for state management and lifecycle methods.
--**localStorage** for persistent data.
+- **React** for building the user interface.
+- **useState** and **useEffect**for state management and lifecycle methods.
+- **localStorage** for persistent data.
 
 ## Installation
 
